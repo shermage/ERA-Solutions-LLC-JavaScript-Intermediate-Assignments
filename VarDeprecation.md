@@ -1,0 +1,3 @@
+Let and const are not just two new cool keywords, they also introduce block scope that allows us to write clean and less error-prone code.
+
+Why don’t we use var anymore? Because now there is a better way of declaring variables and even constants… With block scope! You don’t need to think twice when declaring variables inside blocks. I think that is easier to work with block scope than with function scope. The var usage has been being discouraged. For instance, if you use [ESLint](https://eslint.org/) to check your code, you can configure a “[no-var](https://eslint.org/docs/rules/no-var)” rule that throws an error if there is any var being used.
