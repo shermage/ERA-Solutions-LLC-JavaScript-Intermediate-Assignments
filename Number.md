@@ -1,4 +1,4 @@
-Numbers can be positive or negative. For example, **-## 10** and **7** are both valid numbers.
+Numbers can be positive or negative. For example, **-10** and **7** are both valid numbers.
 
 JavaScript provides several operators for performing mathematical operations with numbers, such as addition **(+)**, subtraction **(-)**, multiplication **(*)**, and division **(/)**.
 
