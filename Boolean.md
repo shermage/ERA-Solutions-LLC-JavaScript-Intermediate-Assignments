@@ -10,6 +10,7 @@ For example:
 
 <img width="646" alt="Screenshot 2023-07-10 at 4 25 09 PM" src="https://github.com/ERA-Solutions-LLC/JavaScript-Intermediate-Assignments/assets/92329761/49238f2f-dfca-484a-8ebd-000e441069ca">
 
+
 In the context of programming, booleans are often used for decision-making and control flow. They help determine the flow of code execution based on specific conditions. For instance, you can use booleans in if statements to perform different actions:
 
 
