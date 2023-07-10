@@ -11,4 +11,5 @@ It's important to note that JavaScript treats numbers as a single data type, reg
 
 For example, you can add an integer and a floating-point number together:
 
-<img width="550" alt="Screenshot 2023-07-10 at 1 51 57 PM" src="https://github.com/ERA-Solutions-LLC/JavaScript-Intermediate-Assignments/assets/92329761/258c7db6-da90-4a82-80a2-b5bef27feda3">
+<img width="642" alt="Screenshot 2023-07-10 at 4 27 58 PM" src="https://github.com/ERA-Solutions-LLC/JavaScript-Intermediate-Assignments/assets/92329761/f507cd76-424e-44e2-be79-be2d1a28f1c0">
+
