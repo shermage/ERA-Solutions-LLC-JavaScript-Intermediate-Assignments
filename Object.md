@@ -6,8 +6,7 @@ Similarly, in JavaScript, an object is a collection of key-value pairs, where ea
 ***
 Here's a basic example of an object representing a car in JavaScript:
 
-<img width="394" alt="Screenshot 2023-07-10 at 3 58 40 PM 1" src="https://github.com/ERA-Solutions-LLC/JavaScript-Intermediate-Assignments/assets/92329761/daca1961-d6c9-430c-b0ec-e9569c3f62c0">
-
+<img width="647" alt="Screenshot 2023-07-10 at 4 27 21 PM" src="https://github.com/ERA-Solutions-LLC/JavaScript-Intermediate-Assignments/assets/92329761/91a1c770-794f-4747-b19c-da8f75850060">
 
 
 In this example, the car object has properties such as **color**, **model**, and **year**, which store specific information about the car. It also has methods (functions) like **startEngine**, **accelerate**, and **stop**, which define the actions the car can perform.
