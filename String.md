@@ -2,9 +2,9 @@ You can think of a string as a collection of individual characters strung togeth
 
 For example, a string can represent words, sentences, or even longer pieces of text. Here are a few examples of strings in JavaScript:
 
-"Hello, world!": This is a string that represents the greeting "Hello, world!"
-"I love JavaScript": This string expresses a sentiment about JavaScript.
-"12345": Although it consists of numbers, if enclosed in quotes, it is considered a string rather than a number.
+* **"Hello, world!"**: This is a string that represents the greeting "Hello, world!"
+* **"I love JavaScript"**: This string expresses a sentiment about JavaScript.
+* **"12345"**: Although it consists of numbers if enclosed in quotes, it is considered a string rather than a number.
 Strings are enclosed in either single quotes (') or double quotes ("). You can use either type of quotes to define a string, as long as you start and end with the same type.
 
 
