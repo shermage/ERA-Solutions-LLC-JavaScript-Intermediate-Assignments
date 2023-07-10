@@ -1,4 +1,4 @@
-Let's say you're a commanding officer in the army, and you want to check the assigned mission for a soldier who has not yet been assigned any task. In this case, the status of the soldier's mission would be **"undefined" **because no specific mission has been given to them yet.
+Let's say you're a commanding officer in the army, and you want to check the assigned mission for a soldier who has not yet been assigned any task. In this case, the status of the soldier's mission would be **"undefined"** because no specific mission has been given to them yet.
 
 Similarly, in JavaScript, a variable that is undefined means that it has been declared but hasn't been assigned a value. It represents the absence of a defined value. 
 
