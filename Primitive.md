@@ -17,3 +17,9 @@ For example:
 
 
 <img width="488" alt="Screenshot 2023-07-10 at 4 06 01 PM" src="https://github.com/ERA-Solutions-LLC/JavaScript-Intermediate-Assignments/assets/92329761/0394a5ef-e423-4fa8-aa3e-25624f490054">
+
+
+***
+
+In summary, primitives in JavaScript are the basic data types that are not objects. They include numbers, strings, booleans, null, undefined, and symbols. Primitives are simple, immutable values that cannot have properties or methods associated with them.
+
