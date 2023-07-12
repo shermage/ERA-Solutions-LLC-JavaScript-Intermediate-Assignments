@@ -1,1 +1,1 @@
-Welcome to ERA Solutions resources!
+Valuable resources for your courses!
