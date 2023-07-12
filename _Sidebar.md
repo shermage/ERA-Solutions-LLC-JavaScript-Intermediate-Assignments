@@ -1,1 +1,1 @@
-Valuable resources for your courses!
+Resources
