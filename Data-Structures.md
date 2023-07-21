@@ -12,4 +12,6 @@ They allow you to manage and manipulate data in various ways. Here's a simple br
 
 **Booleans**: Booleans are a data structure representing true or false values, often used for making decisions in code using conditions (if-else statements).
 
-These basic data structures allow you to create more complex data structures and algorithms in JavaScript. For example, you can combine arrays and objects to create collections of related data, or use loops and conditions to process and manipulate data efficiently. As you progress in JavaScript, you'll encounter more advanced data structures like linked lists, stacks, queues, trees, and graphs, which offer even more powerful ways to organize and manage data. But starting with these basics will give you a solid foundation to work with data in JavaScript.
+These basic data structures allow you to create more complex data structures and algorithms in JavaScript. 
+
+For example, you can combine arrays and objects to create collections of related data or use loops and conditions to process and manipulate data efficiently. As you progress in JavaScript, you'll encounter more advanced data structures like linked lists, stacks, queues, trees, and graphs, which offer even more powerful ways to organize and manage data. But starting with these basics will give you a solid foundation to work with data in JavaScript.
