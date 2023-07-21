@@ -31,7 +31,7 @@ For example:
 <img width="324" alt="Screenshot 2023-07-21 at 2 01 43 AM" src="https://github.com/ERA-Solutions-LLC/JavaScript-Intermediate-Assignments/assets/92329761/f3d98e28-a812-4fc6-931c-4bea4adc20b4">
 
 
-In this example, we call the **addNumbers** function with the arguments **5** and **3**, and it returns **8**, which is then stored in the result variable and printed to the console.
+In this example, we call the **addNumbers** function with the arguments **5** and **3**, and it returns **8**, which is then stored in the **result** variable and printed to the console.
 
 Functions are a fundamental building block of JavaScript and other programming languages. They allow developers to create modular and organized code, making it easier to manage and maintain complex applications. Functions are used extensively in JavaScript for a wide range of tasks, from simple calculations to complex application logic and event handling.
 
