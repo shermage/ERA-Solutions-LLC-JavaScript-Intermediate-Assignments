@@ -24,6 +24,8 @@ You can later change the value of variables declared with var or let:
 
 <img width="659" alt="Screenshot 2023-07-21 at 2 05 23 AM" src="https://github.com/ERA-Solutions-LLC/JavaScript-Intermediate-Assignments/assets/92329761/25c0085d-2a32-49f5-8211-e69661684d04">
 
+***
+
 However, you cannot reassign a new value to a constant variable declared with const:
 
 <img width="834" alt="Screenshot 2023-07-21 at 2 05 55 AM" src="https://github.com/ERA-Solutions-LLC/JavaScript-Intermediate-Assignments/assets/92329761/a009e725-63d3-4f65-998c-f0e14a9cb66a">
