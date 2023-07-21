@@ -34,9 +34,9 @@ APIs are used in various contexts, including web development, mobile app develop
 
 3. We convert the user input from strings to numbers using **parseFloat()**.
 
-4. We check if the input is valid by ensuring that both width and height are positive numbers. If the input is not valid, we display an error message using **alert()**.
+4. We check if the input is valid by ensuring that both width and height are positive numbers. If the input is not valid, we display an error message using **alert()** .
 
-5. If the input is valid, we call the **calculateRectangleArea() **function with the user-provided width and height as arguments. The result is stored in the **areaOfRectangle** variable.
+5. If the input is valid, we call the **calculateRectangleArea()** function with the user-provided width and height as arguments. The result is stored in the **areaOfRectangle** variable.
 
 5. Finally, we use **console.log()** to display the calculated area of the rectangle to the developer console.
 
