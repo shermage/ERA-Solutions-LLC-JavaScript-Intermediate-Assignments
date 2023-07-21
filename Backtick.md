@@ -10,6 +10,8 @@ Here is an example of a template literal:
 <img width="677" alt="Screenshot 2023-07-21 at 1 05 57 AM 1" src="https://github.com/ERA-Solutions-LLC/JavaScript-Intermediate-Assignments/assets/92329761/5920f5b3-ebe1-4d7e-b969-9b8e7943a0b2">
 
 Output:
+
+
 <img width="455" alt="Screenshot 2023-07-21 at 1 07 34 AM" src="https://github.com/ERA-Solutions-LLC/JavaScript-Intermediate-Assignments/assets/92329761/a27770ab-cb67-4138-9beb-df2e21888b9c">
 
 As you can see, the backticks allow us to include variables (${name} and ${age}) directly within the string, enclosed by ${}. This way, we can create dynamic strings without the need for concatenation or escaping new lines manually.
