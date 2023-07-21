@@ -20,6 +20,10 @@ Here are some examples to illustrate these features:
 
 **Output:**
 
+
+***
+
+
 <img width="503" alt="Screenshot 2023-07-21 at 1 09 34 AM" src="https://github.com/ERA-Solutions-LLC/JavaScript-Intermediate-Assignments/assets/92329761/7e682138-c7b8-4943-931c-7860554338e9">
 
 **Multi-Line Strings:**
@@ -30,6 +34,10 @@ Here are some examples to illustrate these features:
 
 <img width="361" alt="Screenshot 2023-07-21 at 1 09 47 AM" src="https://github.com/ERA-Solutions-LLC/JavaScript-Intermediate-Assignments/assets/92329761/5f50bb31-3fcf-4b60-87a7-9b40d93b5605">
 
+
+***
+
+
 **Expression Evaluation:**
 
 <img width="588" alt="Screenshot 2023-07-21 at 1 09 55 AM" src="https://github.com/ERA-Solutions-LLC/JavaScript-Intermediate-Assignments/assets/92329761/f9dfd31b-7ac6-4b92-a07d-f4a7e95b021b">
@@ -37,6 +45,8 @@ Here are some examples to illustrate these features:
 **Output:**
 
 <img width="306" alt="Screenshot 2023-07-21 at 1 10 03 AM" src="https://github.com/ERA-Solutions-LLC/JavaScript-Intermediate-Assignments/assets/92329761/3d90b683-5a56-4e56-abff-9347aa099cd9">
+
+
 
 Template literals provide a cleaner and more elegant way to work with strings in JavaScript, especially when dealing with dynamic content, complex expressions, or multiline text. They are widely used in modern JavaScript development to improve code readability and maintainability.
 
