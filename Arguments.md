@@ -16,6 +16,8 @@ In this example:
 
 Arguments allow functions to be more versatile and dynamic because the same function can be called with different values, making it reusable for various scenarios.
 
+***
+
 You can pass multiple arguments to a function by separating them with commas:
 
 <img width="393" alt="Screenshot 2023-07-21 at 2 09 06 AM" src="https://github.com/ERA-Solutions-LLC/JavaScript-Intermediate-Assignments/assets/92329761/cf4d3d7d-b643-48e1-b3c7-08d7ded28377">
