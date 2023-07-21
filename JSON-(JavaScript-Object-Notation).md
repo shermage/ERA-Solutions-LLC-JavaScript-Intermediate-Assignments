@@ -4,10 +4,10 @@ JSON is based on a subset of the JavaScript programming language, but it is lang
 
 JSON data is represented in key-value pairs and is often structured in two primary data structures:
 
-**1. Objects:** An object in JSON is a collection of key-value pairs enclosed in curly braces {}. Each key is a string, and each value can be a string, number, boolean, null, another JSON object, or an array.
-
-
 ***
+
+
+**1. Objects:** An object in JSON is a collection of key-value pairs enclosed in curly braces {}. Each key is a string, and each value can be a string, number, boolean, null, another JSON object, or an array.
 
 
 Example of a JSON object:
