@@ -28,17 +28,17 @@ APIs are used in various contexts, including web development, mobile app develop
 
 **Let's break down the code:**
 
-We define a function calculateRectangleArea() that takes two parameters width and height. Inside the function, we calculate the area by multiplying the width and height, and then return the result.
+1. We define a function **calculateRectangleArea()** that takes two parameters **width** and **height**. Inside the function, we calculate the area by multiplying the width and height, and then return the result.
 
-1. We use prompt() to get input from the user for the width and height of the rectangle. The input received from prompt() is stored as strings.
+2. We use **prompt()** to get input from the user for the width and height of the rectangle. The input received from **prompt()** is stored as strings.
 
-2. We convert the user input from strings to numbers using parseFloat().
+3. We convert the user input from strings to numbers using **parseFloat()**.
 
-3. We check if the input is valid by ensuring that both width and height are positive numbers. If the input is not valid, we display an error message using alert().
+4. We check if the input is valid by ensuring that both width and height are positive numbers. If the input is not valid, we display an error message using **alert()**.
 
-4. If the input is valid, we call the calculateRectangleArea() function with the user-provided width and height as arguments. The result is stored in the areaOfRectangle variable.
+5. If the input is valid, we call the **calculateRectangleArea() **function with the user-provided width and height as arguments. The result is stored in the **areaOfRectangle** variable.
 
-5. Finally, we use console.log() to display the calculated area of the rectangle to the developer console.
+5. Finally, we use **console.log()** to display the calculated area of the rectangle to the developer console.
 
 Keep in mind that this example is meant to demonstrate basic JavaScript concepts. In a real-world application, you would likely use HTML and CSS to create a user interface and handle user input more elegantly. Nonetheless, this simple example provides a starting point for understanding how JavaScript functions, variables, and basic input/output work together.
 
