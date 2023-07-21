@@ -18,7 +18,7 @@ numbers and returns the result:
 
 In the above function:
 
-* **addNumbers **is the function name.
+* **addNumbers** is the function name.
 * **num1** and **num2** are the parameters of the function.
 * The function body calculates the sum of the two parameters (num1 and num2) and stores the result in the sum variable.
 * The function then uses the return keyword to send the calculated sum back as the function's output.
