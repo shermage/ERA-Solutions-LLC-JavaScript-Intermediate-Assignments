@@ -26,7 +26,7 @@ Here are some examples to illustrate these features:
 
 <img width="392" alt="Screenshot 2023-07-21 at 1 09 40 AM" src="https://github.com/ERA-Solutions-LLC/JavaScript-Intermediate-Assignments/assets/92329761/3cdecf28-6c6b-47eb-8293-41363969dc53">
 
-**Output: **
+**Output:**
 
 <img width="361" alt="Screenshot 2023-07-21 at 1 09 47 AM" src="https://github.com/ERA-Solutions-LLC/JavaScript-Intermediate-Assignments/assets/92329761/5f50bb31-3fcf-4b60-87a7-9b40d93b5605">
 
