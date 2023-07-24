@@ -22,10 +22,11 @@ Arrays are ordered collections of values, but they are still considered non-obje
 
 ***
 
+
 Functions:
 Functions are blocks of code that can be defined and called to perform specific tasks, but they are not objects in the strict sense.
 
-<img width="336" alt="Screenshot 2023-07-24 at 12 01 52 PM" src="https://github.com/ERA-Solutions-LLC/JavaScript-Intermediate-Assignments/assets/92329761/95067bcb-bac3-41cb-a236-ec1af1b74d60">
-led to perform specific tasks, but they are not objects in the strict sense.
+<img width="336" alt="Screenshot 2023-07-24 at 12 01 52 PM" src="https://github.com/ERA-Solutions-LLC/JavaScript-Intermediate-Assignments/assets/92329761/39733433-b6ab-4bbd-9a55-cbb6cfe7910c">
+
 
 While non-objects have some limitations compared to objects, they are essential in JavaScript and serve various purposes in programming. They are lightweight, easy to work with, and can handle simple tasks efficiently. Understanding the difference between non-objects and objects is fundamental in JavaScript development, as it helps you choose the appropriate data type for different situations.
