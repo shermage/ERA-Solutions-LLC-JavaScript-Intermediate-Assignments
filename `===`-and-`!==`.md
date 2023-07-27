@@ -10,7 +10,7 @@ In this example, num1 is a number with a value of 5, and num2 is a string with t
 
 ***
 
-**1. !== (Strict Inequality Operator):**
+**2. !== (Strict Inequality Operator):**
 * It checks if either the value or the data type of the compared values is different.
 * Returns true if the values or data types are not equal, and false otherwise.
 
