@@ -6,4 +6,3 @@ Resources
 
 [ERA Solutions JavaScript Intermediate Practical Exercises](https://github.com/ERA-Solutions-LLC/JavaScript-Intermediate-Assignments)
 
-Brief history of JavaScript and its versions. 
