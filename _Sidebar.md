@@ -5,3 +5,5 @@ Resources
 [ERA Solutions YouTube Channel](https://www.youtube.com/channel/UC3KEW99MCKsHYCypdFhLT1w)
 
 [ERA Solutions JavaScript Intermediate Practical Exercises](https://github.com/ERA-Solutions-LLC/JavaScript-Intermediate-Assignments)
+
+Brief history of JavaScript and its versions. 
