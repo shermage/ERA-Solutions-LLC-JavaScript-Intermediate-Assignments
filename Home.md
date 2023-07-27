@@ -5,7 +5,8 @@ This resource aims to provide programmers with a list of important JavaScript te
 ## How to Use
 This wiki page serves as a comprehensive resource of JavaScript terms and definitions. To help you navigate through the content efficiently, we have included a sidebar on the right-hand side of the page. You can use the sidebar to quickly jump to different terms and their corresponding definitions.
 
-![gif how to](https://github.com/ERA-Solutions-LLC/JavaScript-Intermediate-Assignments/assets/92329761/31696c03-a041-4c5d-a1d9-a11ff619930e)
+![gif how to](https://github.com/ERA-Solutions-LLC/JavaScript-Intermediate-Assignments/assets/92329761/01790af5-02a9-4164-b574-0d1435f02927)
+
 
 
 ## Resources Sidebar
