@@ -7,9 +7,6 @@ Here's how you declare a variable using **var**:
 In this example, we declared a variable named age and assigned the value 25 to it. This means that the variable age now holds the value 25.
 
 
-*** 
-
-
 Let's break it down:
 
 1. **var**: This is the keyword we use to tell JavaScript that we want to create a new variable.
