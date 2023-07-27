@@ -1,4 +1,4 @@
-# Welcome to the Home Page of the Era Solution's JavaScript Course Wikipedia Articles
+# Welcome to the home page of Era Solution's JavaScript Course Wikipedia 
 
 This resource aims to provide programmers with a list of important JavaScript terms and their definitions to enhance their understanding of the language's basic fundamentals. Whether you're a beginner or an experienced developer looking for a quick refresher, this collection of definitions will serve as a handy reference.
 
