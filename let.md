@@ -15,6 +15,8 @@ Let's break it down:
 The key difference between let and var is how they handle variable scoping. When you use let, the variable is scoped to the block (a block is typically defined within curly braces {}) in which it is declared. This means that the variable is only accessible within that block and any nested blocks inside it.
 
 ***
+### For more information about scoping please click [HERE](https://github.com/ERA-Solutions-LLC/JavaScript-Intermediate-Assignments/wiki/Scoping)
+***
 
 Here's an example to illustrate the scoping behavior of let:
 
